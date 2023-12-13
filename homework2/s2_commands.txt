@@ -30,3 +30,8 @@ show mac-address-table -просмотр таблицы коммутации (н
 
 arp -a - -просмотр таблицы ARP (на PC)
 
+interface loopback 1
+
+show ip interface brief
+
+no interface loopback 1
