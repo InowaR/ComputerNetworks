@@ -1,0 +1,6 @@
+sudo dnf install wireshark
+sudo usermod -aG wireshark $USER
+sudo reboot
+sudo wireshark
+
+
