@@ -1,2 +1,3 @@
 Yandex Cloud
 openvpn
+scp test.txt georgiy@<ip-address>:~
