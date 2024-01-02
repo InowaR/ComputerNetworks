@@ -1,0 +1,2 @@
+sudo su -
+cat /usr/local/openvpn_as/init.log

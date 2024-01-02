@@ -1,0 +1,4 @@
+https://cloud.yandex.ru/ru/
+https://openvpn.net/
+https://www.noip.com/
+https://letsencrypt.org/
